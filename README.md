@@ -28,10 +28,10 @@ openLteMac is an open source Project. This project is mainly for LTE eNB  MAC. A
   DL/UL COMP	:-\
   SRS		:-\
   TDD		:-\
-  LAA		:-\
+  LAA		:-
 
   
-10's of other feature will be considered in future.\
+10's of other feature will be considered in future.
   
 
 # Build Instructions
