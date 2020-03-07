@@ -1,0 +1,25 @@
+
+1. Finalising global stuctures.
+   a. CELL structure
+   b. MAC structure
+   c. UE stucture
+   d. L1/RLC interface params
+   e. Param grouping(one structure for DL, another for UL, etc..) based on functionality & architechture
+
+2. Util stuctures
+   a. Data structure stuctures
+   b. implementation of DS functionality
+
+3. Parallel processing architechtire
+   a. Thread pooling.
+   b. Grouping of real-time & non real-time functionalities.
+
+4. Document related to architechture
+
+5. Implementation of LTE MAC functionality.
+   a. Basic LTE functionality w.r.t MAC.
+   *.
+   *.
+
+*. To be decided later
+
